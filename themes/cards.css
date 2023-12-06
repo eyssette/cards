@@ -1,0 +1,12 @@
+/* @theme cards */
+
+section {
+	font-family:Garamond,Philosopher,'Times New Roman', Times, serif;
+	font-size: 8pt;  
+	width: 54mm;
+	height: 85mm;
+	padding: 20px;
+	background-color: grey;
+	line-height:1;
+	border-radius:15px;
+}
