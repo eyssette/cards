@@ -15,10 +15,11 @@ section {
 h1 {
 	position: absolute;
 	top: 0.25cm;
-	left: 0.40cm;
+	left: 0.30cm;
 	margin: 0;
 	padding: 0;
 	font-size: 12px;
+	color:white;
 }
 
 h1+ul {
@@ -31,6 +32,7 @@ h1+ul {
 	padding: 0;
 	margin-top: 1px;
 	font-size: 12px;
+	color:white;
 }
 
 h1 + ul img {
@@ -71,10 +73,10 @@ h2 {
 
 h2+div {
 	position: absolute;
-	top: 150px;
+	top: 4cm;
 	left: 0.20cm;
 	width: 4.7cm;
-	height: 3.9cm;
+	height: 4cm;
 	background-color: white;
 	color: black;
 	margin: auto;
