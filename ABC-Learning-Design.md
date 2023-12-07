@@ -29,6 +29,9 @@ img {margin-top:-10px}
 </div>
 
 ---
+<style scoped>
+div {font-size:0.8em}
+</style>
 
 # Pratique / Entraînement
 - :running_woman:
@@ -46,7 +49,8 @@ img {margin-top:-10px}
 
 **Avec le numérique :**
 - Faire des exercices en ligne
-- Faire une expérience avec un simulateur sur ordinateur 
+- Faire une expérience avec un simulateur sur ordinateur
+- Utiliser du numérique adapté à une activité en plein air : tablettes ou BYOD, réalité augmentée, logiciel de cartographie, exercices géolocalisés
 
 </div>
 
