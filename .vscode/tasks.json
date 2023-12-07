@@ -4,9 +4,9 @@
 	"version": "2.0.0",
 	"tasks": [
 		{
-			"label": "Export to HTML",
+			"label": "Export to PDF",
 			"type": "shell",
-			"command": "marp ${file} --theme themes/cards.css --pdf true --lang fr-FR",
+			"command": "marp ${file} --theme themes/cards.css --pdf --html true --lang fr-FR && marp ${file} --theme themes/cards.css --html true --lang fr-FR",
 			"group": {
 				"kind": "build",
 				"isDefault": true
